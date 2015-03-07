@@ -1,7 +1,9 @@
 googleMapsUtil
 ====
 
-wrapper to use Google Maps API from node.js
+wrapper to use Google Maps API from node.js with https fix from andrepcg
+
+For the original author see: https://github.com/yupitel/googleMapsUtil
 
 ## About
 wrap Google Maps API
